@@ -30,8 +30,11 @@
   padding-right: 5px;
 }
 
-.main_img {
-  background-image: url(/assets/fin.jpg);
+.main_box {
+  background-image: url(https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=872&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
   height: 500px;
   width: 100%;
   background-position: center;
@@ -39,5 +42,10 @@
 }
 
 .main_header {
+  color: lavenderblush;
+  text-shadow: 3px 2px 20px black;
   text-align:center;
+  top: 40%;
+  left: 25%;
+  position: absolute;
 }
