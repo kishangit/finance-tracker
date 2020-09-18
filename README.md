@@ -6,6 +6,10 @@ Rails - Rails 6.0.3.3
 
 UI - Bootstrap(4.5)
 
+Demo
+-
+https://finance-tracker-rails6app.herokuapp.com
+
 Gems
 -
 Authentication - Devise<br />
